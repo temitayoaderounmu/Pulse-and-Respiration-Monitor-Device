@@ -62,7 +62,7 @@ The project is implemented on a **TM4C123GXL microcontroller** and demonstrates 
 </p>
 <p align="center">
   <b>Figure 4: This figure shows the circuitry for the respiratory analysis part of the project</b>
-  The connection of the HX711 involves the DATA and the PD_CLK being connected to the controller. Then a 350 ohms resistor is connected from E+ to A+, E+ to A- and E- to A+. Afterwards the tip of the TRS jack is connected to the A- terminal and the shield connects to the E-.
+  The connection of the HX711 involves the DATA and the PD_CLK being connected to the controller. Then a 350 ohms resistor is connected from E+ to A+, E+ to A-, and E- to A+. Afterward, the tip of the TRS jack is connected to the A- terminal, and the shield connects to the E-.
 </p>
 
 <p align="center">
@@ -70,6 +70,7 @@ The project is implemented on a **TM4C123GXL microcontroller** and demonstrates 
 </p>
 <p align="center">
   <b>Figure 4: Scope Capture of the circuit </b>
+  The figure examines the sensor input to the circuit and the final output to the timer CCP0 pin of the controller.
 </p>
 
 ---
@@ -122,8 +123,3 @@ Respiration Rate: 18 breaths/min
 
 ---
 
-## 📝 License  
-
-This project is open-source and available under the **MIT License**.  
-
----
