@@ -29,7 +29,7 @@ The project is implemented on a **TM4C123GXL microcontroller** and demonstrates 
 
 ## 🛠️ Hardware Design  
 <p align="center">
-  <img src="./images/hardware.png"/>
+  <img src="./images/hardware.PNG"/>
 </p>
 <p align="center">
   <b>Figure 1: Hardware setup for biosensor device</b>
