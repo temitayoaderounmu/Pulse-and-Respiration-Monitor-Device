@@ -3,8 +3,7 @@
 **Real-time heart rate and respiration tracking using embedded systems!**  
 
 <p align="center">
-  <img src="![image](https://github.com/user-attachments/assets/f12a7b6c-f7e8-4618-a151-b95c1f099310)
-"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXc3NjJobGpuanBpcGo4OWFhdDFteW92ZnZoMXR0OXgwN25zMm16cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VGK2WUT3amXjG/giphy.gif"/>
 </p>
 
 ## 📑 Table of Contents  
