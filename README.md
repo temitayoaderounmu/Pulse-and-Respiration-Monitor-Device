@@ -3,7 +3,7 @@
 **Real-time heart rate and respiration tracking using embedded systems!**  
 
 <p align="center">
-  <img src="https://media4.giphy.com/media/QyQ5xyF8li7XlOaGFu/giphy.gif"/>
+  <img src="[https://media4.giphy.com/media/QyQ5xyF8li7XlOaGFu/giphy.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXc3NjJobGpuanBpcGo4OWFhdDFteW92ZnZoMXR0OXgwN25zMm16cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VGK2WUT3amXjG/giphy.gif)"/>
 </p>
 
 ## 📑 Table of Contents  
@@ -70,7 +70,7 @@ The project is implemented on a **TM4C123GXL microcontroller** and demonstrates 
 </p>
 <p align="center">
   <b>Figure 4: Scope Capture of the circuit </b>
-  The figure examines the sensor input to the circuit and the final output to the timer CCP0 pin of the controller.
+  <b>The figure examines the sensor input to the circuit and the final output to the timer CCP0 pin of the controller.</b>
 </p>
 
 ---
