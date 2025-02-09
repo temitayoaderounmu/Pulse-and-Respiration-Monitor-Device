@@ -44,10 +44,32 @@ The project is implemented on a **TM4C123GXL microcontroller** and demonstrates 
 
 ### Circuit Design:  
 <p align="center">
-  <img src="./images/circuit_diagram.png"/>
+  <img src="./images/circuit_diagram.jpg"/>
 </p>
 <p align="center">
-  <b>Figure 2: Circuit diagram for pulse and respiration monitoring</b>
+  <b>Figure 2: Circuit diagram of the amplifier circuit that converts the varying analog signal</b>
+</p>
+
+<p align="center">
+  <img src="./images/circuit_diagram2.jpg"/>
+</p>
+<p align="center">
+  <b>Figure 3: Circuit diagram of the speaker</b>
+</p>
+
+<p align="center">
+  <img src="./images/circuit_diagram1.jpg"/>
+</p>
+<p align="center">
+  <b>Figure 4: This figure shows the circuitry for the respiratory analysis part of the project</b>
+  The connection of the HX711 involves the DATA and the PD_CLK being connected to the controller. Then a 350 ohms resistor is connected from E+ to A+, E+ to A- and E- to A+. Afterwards the tip of the TRS jack is connected to the A- terminal and the shield connects to the E-.
+</p>
+
+<p align="center">
+  <img src="./images/ossi.jpg"/>
+</p>
+<p align="center">
+  <b>Figure 4: Scope Capture of the circuit </b>
 </p>
 
 ---
